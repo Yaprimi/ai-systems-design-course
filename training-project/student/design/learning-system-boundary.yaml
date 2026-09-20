@@ -1,0 +1,34 @@
+schema_version: "1.0"
+proposal_id: lab01-boundary-data-engineering
+status: approved
+personal_domain: інженерія даних (конвеєри даних і якість даних)
+intended_learning_outcome: Демонстрація за збереженими артефактами реєстрації першоджерела у зовнішньому
+  сховищі та контролю межі повноважень через валідацію пропозиції, семантичний розгляд і прив'язане до
+  дайджесту людське рішення.
+non_goals:
+  - Автономна модифікація канонічної бази знань без явного людського рішення та затвердження.
+  - Навчання базової моделі з нуля або прийняття рішень із високими наслідками (медичних, фінансових,
+    юридичних, безпекових).
+governance:
+  ai_role: Propose a bounded system description and expose uncertainty without accepting changes.
+  deterministic_role: Validate the candidate, bind the decision to its digest, and apply only approved
+    content.
+  human_role: Review meaning and explicitly approve or reject the proposal before application.
+usefulness_condition: Будь-яке прийняте твердження чи відповідь у базі знань має пряме посилання на збережений
+  запис джерела з перевірюваним Git-комітом і цитатою.
+material_risk: Згенеровані моделлю інтерпретації або зв'язки можуть містити правдоподібні галюцинації
+  та перебільшувати чи спотворювати зміст першоджерел.
+non_ai_baseline: Ручне ведення конспектів у Markdown з фасетною класифікацією тегами та детермінованим
+  пошуком за ключовими словами або grep.
+uncertainty: Фіксований словник типізованих зв'язків курсу та правила валідації суперечностей ще не фіналізовані
+  для всіх концептів.
+required_evidence:
+  - Успішний результат детермінованої перевірки схеми та інваріантів (learning-project validate).
+  - Зафіксоване явне рішення студента про затвердження, прив'язане до SHA-256 дайджесту пропозиції, після
+    проходження семантичного розгляду за джерелами.
+accepted:
+  source_proposal: boundary-proposal.yaml
+  proposal_sha256: 2437b9f83df49bfadd93f1daf1351b4b568603939184e57080e6c948e658ed47
+  approved_by: yapryntsev
+  approved_at: "2026-09-20T18:47:42.233070+00:00"
+  applied_at: "2026-09-20T18:47:49.134489+00:00"
