@@ -6,7 +6,7 @@
 
 - URL форку: https://github.com/Yaprimi/ai-systems-design-course
 - Назва гілки: lab01/yapryntsev
-- Повний хеш коміту: [ДОЗАПОВНИТИ після `git commit` на кроці 10: результат `git rev-parse HEAD`, 40 символів]
+- Повний хеш коміту: cae8afe6ce5f8a3dbb1f0e6b5b474df0ec7d9fd6
 
 Обліковий запис Windows на знімках — `ax532`, обліковий запис GitHub — `Yaprimi`, ідентифікатор студента — `yapryntsev`.
 
