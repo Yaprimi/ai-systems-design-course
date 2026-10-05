@@ -6,7 +6,7 @@
 
 - URL форку: https://github.com/Yaprimi/ai-systems-design-course.git
 - Назва особистої гілки: lab02/yapryntsev
-- Повний хеш коміту зі свідченнями:
+- Повний хеш коміту зі свідченнями: 2f2fd9ec0834ec98b67a2b6cfc2c37c497bfe588
 
 ## Початковий стан і реєстрація джерела
 
