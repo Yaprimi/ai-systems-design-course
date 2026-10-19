@@ -1,0 +1,9 @@
+schema_version: '1.0'
+blind_id: blind-008
+category: Q
+source_pointer: An evaluation rubric is a written set of categories, rules for assigning those categories,
+  and examples that show the boundaries between them.
+rationale: Джерело не називає відомчої рубрики й кількості категорій. Відповідь коротко й точно фіксує,
+  що кількість не вказана. Це виправдана невизначеність за очікуваною поведінкою, Q.
+assessed_by: yapryntsev
+recorded_at: '2026-10-19T16:09:08.214553+00:00'

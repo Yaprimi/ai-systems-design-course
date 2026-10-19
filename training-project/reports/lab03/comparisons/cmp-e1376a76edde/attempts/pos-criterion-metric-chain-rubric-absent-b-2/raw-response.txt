@@ -1,0 +1,6 @@
+```json
+{
+  "case_id": "criterion-metric-chain-rubric-absent",
+  "proposed_text": "The provided source does not specify how many rubric categories the department's evaluation rubric defines; it only mentions that an evaluation rubric consists of a written set of categories, rules for assigning those categories, and examples that show the boundaries between them."
+}
+```

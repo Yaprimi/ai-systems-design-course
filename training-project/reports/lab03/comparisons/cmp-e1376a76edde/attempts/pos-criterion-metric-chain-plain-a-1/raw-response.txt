@@ -1,0 +1,3 @@
+
+
+{"case_id":"criterion-metric-chain-plain","proposed_text":"A criterion defines the quality property a system must satisfy, and a metric is a defined measurement that can be compared against that criterion to judge whether the property holds, thereby linking the abstract requirement to a concrete, comparable value."}

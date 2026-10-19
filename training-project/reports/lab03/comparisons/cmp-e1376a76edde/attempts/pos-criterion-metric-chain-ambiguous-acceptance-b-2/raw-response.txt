@@ -1,0 +1,6 @@
+```json
+{
+  "case_id": "criterion-metric-chain-ambiguous-acceptance",
+  "proposed_text": "The source states that the acceptance condition passes when 'the checked value' is within the declared bound, but it does not specify which particular measurement or metric this refers to. Since the note records two checked values for the same run and fails to clarify which one the bound applies to, the source does not specify which measurement the acceptance condition actually refers to."
+}
+```

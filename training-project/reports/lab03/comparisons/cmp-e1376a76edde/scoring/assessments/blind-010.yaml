@@ -1,0 +1,11 @@
+schema_version: '1.0'
+blind_id: blind-010
+category: I
+source_pointer: The acceptance condition passes when the checked value is within the declared bound. The
+  note records two checked values for the same run and does not say which one the bound applies to.
+rationale: Відповідь повторює формулювання джерела, не додаючи непідтриманих тверджень, тому правило 2
+  не спрацьовує. Проте вона не повідомляє про нерозв'язане посилання між двома перевіреними значеннями,
+  яке вимагає очікувана поведінка. Потрібний зміст відсутній і відповідь не ідентифікує невизначеність,
+  тому за правилом 4 призначено I, а не Q.
+assessed_by: yapryntsev
+recorded_at: '2026-10-19T16:09:09.263178+00:00'

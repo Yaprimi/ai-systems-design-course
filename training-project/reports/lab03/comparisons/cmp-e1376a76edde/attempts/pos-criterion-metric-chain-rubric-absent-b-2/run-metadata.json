@@ -1,0 +1,9 @@
+{
+  "position_id": "pos-criterion-metric-chain-rubric-absent-b-2",
+  "adapter": "openrouter",
+  "model_id": "openrouter/free",
+  "started_at": "2026-10-19T15:46:41.029560+00:00",
+  "finished_at": "2026-10-19T15:47:04.846970+00:00",
+  "recorded_by": "yapryntsev",
+  "observed_model": "xingchen-agi/xing4.0-29b-a4b:free"
+}

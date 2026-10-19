@@ -1,0 +1,11 @@
+schema_version: '1.0'
+blind_id: blind-005
+category: U
+source_pointer: A metric is a defined measurement whose values can be compared against the criterion to
+  judge whether that property holds.
+rationale: Джерело каже лише, що значення метрики порівнюють із критерієм, а критерій задає властивість.
+  Відповідь стверджує, що значення порівнюють із benchmark or threshold критерію. Такого порогу в джерелі
+  немає, і це змінює природу критерію. За правилом 2 рубрики суттєве непідтримане твердження дає U, навіть
+  якщо решта відповіді правильна.
+assessed_by: yapryntsev
+recorded_at: '2026-10-19T16:09:06.632290+00:00'

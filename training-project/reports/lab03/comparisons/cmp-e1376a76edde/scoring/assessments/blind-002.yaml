@@ -1,0 +1,10 @@
+schema_version: '1.0'
+blind_id: blind-002
+category: S
+source_pointer: A criterion states the quality property the system must satisfy. A metric is a defined
+  measurement whose values can be compared against the criterion to judge whether that property holds.
+rationale: Завдання про зв'язок критерію й метрики. Усі три елементи очікуваної поведінки збережено, зокрема
+  напрямок порівняння метрики з критерієм. Слова quantifiable та operationalizes є тлумаченням, а не новим
+  твердженням, тому U не застосовується; зміст повний, призначено S.
+assessed_by: yapryntsev
+recorded_at: '2026-10-19T16:09:04.919847+00:00'

@@ -1,0 +1,4 @@
+{
+  "case_id": "criterion-metric-chain-plain",
+  "proposed_text": "A criterion specifies the quality property that a system must satisfy, serving as the abstract standard against which performance is judged, while a metric provides a concrete, quantifiable measurement that can be compared to that criterion to determine whether the property holds; thus the metric operationalizes the criterion, enabling evaluation by checking if the metric values meet the criterion."
+}

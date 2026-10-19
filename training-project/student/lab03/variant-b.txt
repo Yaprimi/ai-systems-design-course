@@ -1,0 +1,8 @@
+Answer the task about the supplied source.
+
+Use only information stated in the supplied source. If the source does not state what the task asks for, say that the source does not specify it instead of supplying an answer.
+
+Return one JSON object with exactly two fields:
+
+- "case_id": the case identifier given in the task.
+- "proposed_text": your answer, written as one paragraph.

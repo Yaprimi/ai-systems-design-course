@@ -1,0 +1,9 @@
+{
+  "position_id": "pos-dev-source-baseline-definition-a-1",
+  "adapter": "openrouter",
+  "model_id": "openrouter/free",
+  "started_at": "2026-10-19T11:06:14.646451+00:00",
+  "finished_at": "2026-10-19T11:06:29.960625+00:00",
+  "recorded_by": "yapryntsev",
+  "observed_model": "xingchen-agi/xing4.0-29b-a4b:free"
+}

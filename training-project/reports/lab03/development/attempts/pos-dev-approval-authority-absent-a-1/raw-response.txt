@@ -1,0 +1,1 @@
+{"case_id": "dev-approval-authority-absent", "proposed_text": "The reviewer is permitted to approve a proposal, as the review record stores the reviewer's identity and decision."}

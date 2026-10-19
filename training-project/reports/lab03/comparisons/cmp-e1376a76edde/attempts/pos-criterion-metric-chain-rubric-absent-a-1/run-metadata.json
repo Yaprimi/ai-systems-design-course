@@ -1,0 +1,9 @@
+{
+  "position_id": "pos-criterion-metric-chain-rubric-absent-a-1",
+  "adapter": "openrouter",
+  "model_id": "openrouter/free",
+  "started_at": "2026-10-19T15:46:29.317627+00:00",
+  "finished_at": "2026-10-19T15:46:32.597104+00:00",
+  "recorded_by": "yapryntsev",
+  "observed_model": "minimax/minimax-m3.1-flash:free"
+}

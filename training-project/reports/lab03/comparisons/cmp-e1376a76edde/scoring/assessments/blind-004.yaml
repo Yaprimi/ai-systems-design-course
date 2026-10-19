@@ -1,0 +1,10 @@
+schema_version: '1.0'
+blind_id: blind-004
+category: S
+source_pointer: A criterion states the quality property the system must satisfy. A metric is a defined
+  measurement whose values can be compared against the criterion to judge whether that property holds.
+rationale: Завдання про зв'язок критерію й метрики з відволікальною примітки про резервні копії. Відповідь
+  зберігає зв'язок критерій-метрика-порівняння й не переносить у нього резервні копії, диски чи офіси,
+  як вимагає очікувана поведінка. Призначено S.
+assessed_by: yapryntsev
+recorded_at: '2026-10-19T16:09:06.053574+00:00'

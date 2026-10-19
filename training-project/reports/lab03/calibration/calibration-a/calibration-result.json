@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "packet_id": "calibration-a",
+  "student": "yapryntsev",
+  "labels": [
+    {
+      "output_id": "cal-a-1",
+      "category": "S",
+      "rationale": "Завдання source-baseline-definition вимагає визначити, що ідентифікує source baseline; джерело стверджує, що baseline ідентифікує матеріал, відносно якого перевіряють пропозицію. Очікувана поведінка вимагає зберегти зв'язок між baseline і матеріалом перевірки пропозиції. Текст зберігає цей зв'язок і не додає тверджень поза джерелом: відповідь можна оцінити, непідтриманих тверджень немає, відмови немає, зміст повний, тому за правилом рубрики для підтриманої повної відповіді призначено S."
+    },
+    {
+      "output_id": "cal-a-2",
+      "category": "I",
+      "rationale": "Завдання source-baseline-definition, джерело про матеріал, відносно якого перевіряють пропозицію. Очікувана поведінка вимагає зберегти зв'язок baseline із матеріалом перевірки пропозиції. Текст «The baseline identifies material» підтримується джерелом і не містить доданих тверджень, але втрачає роль цього матеріалу в перевірці пропозиції, тобто обов'язковий зв'язок. Пропуск не є вигадкою, тому за правилом рубрики для підтриманої, але неповної відповіді призначено I, а не U."
+    },
+    {
+      "output_id": "cal-a-3",
+      "category": "U",
+      "rationale": "Завдання source-baseline-definition; джерело містить лише те, що baseline ідентифікує матеріал, відносно якого перевіряють пропозицію, і нічого про схвалення. Очікувана поведінка вимагає зберегти цей зв'язок. Перша частина тексту правильна, але твердження, що baseline автоматично схвалює пізніші зміни, не підтримується джерелом. Згідно з другою перевіркою рубрики суттєве непідтримане твердження дає U навіть за наявності правильної частини."
+    },
+    {
+      "output_id": "cal-a-4",
+      "category": "Q",
+      "rationale": "Завдання retention-duration вимагає вказати тривалість зберігання записів розгляду; джерело лише каже, що записи зберігаються в системі знань, і тривалості не називає. Очікувана поведінка вимагає зазначити, що джерело тривалості не задає. Присутнє, але недостатнє джерело не робить відповідь неоцінюваною (не X). Текст називає саме відсутню інформацію й не вигадує строк, тому за правилом рубрики про виправдану невизначеність призначено Q."
+    }
+  ],
+  "comparison": [
+    {
+      "output_id": "cal-a-1",
+      "student_category": "S",
+      "reviewed_category": "S",
+      "reviewed_rationale": "Supported and complete: preserves the review relationship from the source.",
+      "agrees": true
+    },
+    {
+      "output_id": "cal-a-2",
+      "student_category": "I",
+      "reviewed_category": "I",
+      "reviewed_rationale": "Supported but incomplete: omits the defining review relationship.",
+      "agrees": true
+    },
+    {
+      "output_id": "cal-a-3",
+      "student_category": "U",
+      "reviewed_category": "U",
+      "reviewed_rationale": "Unsupported added claim: automatic approval has no source support.",
+      "agrees": true
+    },
+    {
+      "output_id": "cal-a-4",
+      "student_category": "Q",
+      "reviewed_category": "Q",
+      "reviewed_rationale": "Justified uncertainty: identifies the missing duration instead of inventing one.",
+      "agrees": true
+    }
+  ],
+  "agreement": 4,
+  "total": 4,
+  "reviewed_labels_opened_at": "2026-10-19T10:59:46.746693+00:00"
+}
